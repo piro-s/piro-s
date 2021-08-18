@@ -12,4 +12,4 @@ Orange pi (mpd + mpc) + VFD + amplifier (TDA7851L). For more details see [music_
 
 ### Development board for Atmega48
 
-Development board for Atmega48 developed by me and [mostovsky](https://github.com/mostovsky). Version 0.1 fully functional. Version 0.2 in progress. For more details see [mega48_super_board](https://github.com/piro-s/mega48_super_board).
+Development board for Atmega48 developed by me and [mostovsky](https://github.com/mostovsky). Version 0.2 available. For more details see [mega48_super_board](https://github.com/piro-s/mega48_super_board).
