@@ -13,3 +13,7 @@ Orange pi (mpd + mpc) + VFD + amplifier (TDA7851L). For more details see [music_
 ### Development board for Atmega48
 
 Development board for Atmega48 developed by me and [mostovsky](https://github.com/mostovsky). Version 0.2 available. For more details see [mega48_super_board](https://github.com/piro-s/mega48_super_board).
+
+### motion_pi
+
+Setting up motion with email notification, saving the captured video on git in a password-protected archive and external access (via openvnp). For more details see [motion_pi](https://github.com/piro-s/motion_pi).
