@@ -17,3 +17,7 @@ Development board for Atmega48 developed by me and [mostovsky](https://github.co
 ### motion_pi
 
 Setting up motion with email notification, saving the captured video on git in a password-protected archive and external access (via openvnp). For more details see [motion_pi](https://github.com/piro-s/motion_pi).
+
+### Bonfire
+
+Modernization of the night light bought on Ali in the form of a bonfire from Dark Souls. For more details see [bonfire](https://github.com/piro-s/bonfire).
