@@ -14,6 +14,10 @@ Development board for Atmega48 developed by me and [mostovsky](https://github.co
 
 Setting up motion with email notification, saving the captured video on git in a password-protected archive and external access (via openvnp). For more details see [motion_pi](https://github.com/piro-s/motion_pi).
 
+### ESP32_cam & temperature web-server
+
+ESP32_cam AI Thinker with a connected sensor DS18B20 and a web server that processes the received temperature values. For more details see [esp32_cam](https://github.com/piro-s/esp32_cam) and [mini_sh_server](https://github.com/piro-s/mini_sh_server).
+
 ### Bonfire
 
 Modernization of the night light bought on Ali in the form of a bonfire from Dark Souls. For more details see [bonfire](https://github.com/piro-s/bonfire).
