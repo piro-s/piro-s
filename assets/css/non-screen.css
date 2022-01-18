@@ -21,7 +21,7 @@ header span.ribbon-inner {
 header span.left-tail, header span.right-tail {
   width: 19px;
   height: 10px;
-  background: transparent url(../images/ribbon-tail-sprite-2x.png) 0 0 no-repeat;
+  background: none;
   bottom: -10px;
 }
 
