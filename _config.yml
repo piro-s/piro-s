@@ -1,1 +1,5 @@
+title: Welcome to piro-s
+description: This site is for my small pet projects.
+#show_downloads: true
+google_analytics:
 theme: jekyll-theme-merlot

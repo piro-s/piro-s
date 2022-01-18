@@ -1,6 +1,7 @@
 # Ignore all files
 *
 
+
 # Don't ignore git files
 !.gitignore
 
@@ -9,6 +10,11 @@
 
 # Don't ignore yml
 !_config.yml
+
+
+# Don't ignore assets
+!assets/**
+
 
 # Even if they are in subdirectories
 !*/
