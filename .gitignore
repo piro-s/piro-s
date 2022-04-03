@@ -11,6 +11,8 @@
 # Don't ignore yml
 !_config.yml
 
+# Don't ignore CNAME
+!CNAME
 
 # Don't ignore assets
 !assets/**
