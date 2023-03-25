@@ -25,3 +25,7 @@ Modernization of the night light bought on Ali in the form of a bonfire from Dar
 #### Generator [OnHold]
 
 Pulse signal generator, published version is ready and working, further development is so far suspended.  For more details see [generator](https://github.com/piro-s/generator).
+
+#### Orange Pi 800 active cooling
+
+Active cooling for Orange Pi 800. For more details see [OPi_800_PWM_Cooling](https://github.com/piro-s/OPi_800_PWM_Cooling).
