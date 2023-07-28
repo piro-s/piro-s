@@ -279,6 +279,8 @@ nav ul a:hover { color: #999; }
 
 footer { width: 180px; position: fixed; left: 50%; margin-left: -530px; bottom: 20px; text-align: right; line-height: 16px; }
 
+footer p { text-indent: 0; }
+
 @media print, screen and (max-width: 1060px) { div.wrapper { width: auto; margin: 0; }
   nav { width: 70%; top: 0; position: relative; margin: 0; left: 0; padding-left: 20%; padding-top: 190px; } 
   header, section, footer { float: none; }
