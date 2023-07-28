@@ -17,6 +17,8 @@
 # Don't ignore assets
 !assets/**
 
+# Don't ignore layouts
+!_layouts/**
 
 # Even if they are in subdirectories
 !*/
