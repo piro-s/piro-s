@@ -1,5 +1,10 @@
-title: Welcome to piro-s
-description: This site is for my small pet projects.
-#show_downloads: true
-google_analytics:
-theme: jekyll-theme-merlot
+# Info
+title: Welcome to piro's techonologies.
+email: piro-s.tech@yandex.ru
+description: This site is for my small projects.
+github_username:  piro-s
+
+# Build settings
+theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-feed
