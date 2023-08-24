@@ -37,7 +37,7 @@ ESP32_cam AI Thinker bought on Ali, to which two sensors are connected DS18B20. 
 ---
 ## Development boards  
 ### Development board for Atmega48  
-Development board for Atmega48 developed by me and [mostovsky](https://github.com/mostovsky). Version 0.2 available. Would You Like to Know [**More**](https://github.com/piro-s/mega48_super_board)?  
+Development board for Atmega48 developed by me and [mostovsky](https://github.com/mostovsky). Version 0.3 available. Would You Like to Know [**More**](https://github.com/piro-s/mega48_super_board)?  
 
 ### STM32 Debug Console  
 Debugging board for STM32F103Cx microcontrollers with a lot of external interfaces (RS-232, RS-485, USB-UART, RF, Bluetooth, SPI, I2C, UART). Would You Like to Know [**More**](https://github.com/piro-s/stm32_console)?  
