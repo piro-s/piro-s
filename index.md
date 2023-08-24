@@ -47,6 +47,9 @@ Debugging board for STM32F103Cx microcontrollers with a lot of external interfac
 ### Generator [OnHold]  
 Pulse signal generator, published version is ready and working, further development is so far suspended. Would You Like to Know [**More**](https://github.com/piro-s/generator)?  
 
+### Mega micro ammeter 48  
+Microammeter is designed to measure small direct currents in low-voltage circuits. Would You Like to Know [**More**](https://github.com/piro-s/mega_micro_ammeter_48)?  
+
 ---
 
 # Web-projects
