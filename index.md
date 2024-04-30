@@ -22,7 +22,7 @@ Active cooling for Orange Pi 800. Would You Like to Know [**More**](https://gith
 Just an ordinary mini keyboard. Would You Like to Know [**More**](https://github.com/piro-s/mini_keyboard)?  
 
 ---
-## Music amplifiers  
+## Music  
 ### Music amplifier
 A simple two-channel amplifier on a chip TDA7851L. Would You Like to Know [**More**](https://github.com/piro-s/music_amplifier)?  
 
