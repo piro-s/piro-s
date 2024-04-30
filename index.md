@@ -32,6 +32,9 @@ Amplifier on TDA7851L has two input sources, an additional subwoofer output and 
 ### Mini-amplifier + indicator  
 A simple two-channel amplifier for headphones on a chip TDA2822 with indicator on LM3915. Would You Like to Know [**More**](https://github.com/piro-s/mahp)?  
 
+### Music alarm  
+Music alarm project: play music (sound signals) when an alarm is triggered.. Would You Like to Know [**More**](https://github.com/piro-s/music_alarm)?  
+
 ---
 ## Meteostantions  
 ### ESP32 - camera + temperature  
