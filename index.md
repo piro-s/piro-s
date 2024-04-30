@@ -26,8 +26,8 @@ Just an ordinary mini keyboard. Would You Like to Know [**More**](https://github
 ### Music amplifier
 A simple two-channel amplifier on a chip TDA7851L. Would You Like to Know [**More**](https://github.com/piro-s/music_amplifier)?  
 
-### Music amplifier with remote control through Ethernet cable  
-Amplifier on TDA7851L has two input sources, an additional subwoofer output and a control board for more convenient control. Would You Like to Know [**More**](https://github.com/piro-s/music_amp_control)?  
+### Music amplifier (remote control)  
+Amplifier on TDA7851L has two input sources, an additional subwoofer output and a control board (through Ethernet cable) for more convenient control. Would You Like to Know [**More**](https://github.com/piro-s/music_amp_control)?  
 
 ---
 ## Meteostantions  
