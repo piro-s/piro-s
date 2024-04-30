@@ -29,6 +29,9 @@ A simple two-channel amplifier on a chip TDA7851L. Would You Like to Know [**Mor
 ### Music amplifier (remote control)  
 Amplifier on TDA7851L has two input sources, an additional subwoofer output and a control board (through Ethernet cable) for more convenient control. Would You Like to Know [**More**](https://github.com/piro-s/music_amp_control)?  
 
+### Mini-amplifier + indicator  
+A simple two-channel amplifier for headphones on a chip TDA2822 with indicator on LM3915. Would You Like to Know [**More**](https://github.com/piro-s/mahp)?  
+
 ---
 ## Meteostantions  
 ### ESP32 - camera + temperature  
