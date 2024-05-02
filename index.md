@@ -28,6 +28,9 @@ common point. Would You Like to Know [**More**](https://github.com/piro-s/SB_Bi)
 ### MasterVisa  
 Project for business card. Would You Like to Know [**More**](https://github.com/piro-s/masterVisa)?  
 
+### Mini thermostat  
+Mini board for turning on the fan when the thermocouple heats up. Would You Like to Know [**More**](https://github.com/piro-s/thermostat_mini)?  
+
 ---
 ## Music  
 ### Music amplifier
