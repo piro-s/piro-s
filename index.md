@@ -21,6 +21,10 @@ Active cooling for Orange Pi 800. Would You Like to Know [**More**](https://gith
 ### Mini keyboard  
 Just an ordinary mini keyboard. Would You Like to Know [**More**](https://github.com/piro-s/mini_keyboard)?  
 
+### SB_Bi  
+A simple rectifier board for a transformer with two secondary windings with a  
+common point. Would You Like to Know [**More**](https://github.com/piro-s/SB_Bi)?  
+
 ---
 ## Music  
 ### Music amplifier
