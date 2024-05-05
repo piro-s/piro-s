@@ -49,7 +49,7 @@ A simple two-channel amplifier for headphones on a chip TDA2822 with indicator o
 A simple two-channel amplifier on a chip TDA2050 (ITUN scheme). Would You Like to Know [**More**](https://github.com/piro-s/ma_tda2050)?  
 
 ### Music alarm  
-Music alarm project: play music (sound signals) when an alarm is triggered.. Would You Like to Know [**More**](https://github.com/piro-s/music_alarm)?  
+Music alarm project: play music (sound signals) when an alarm is triggered. Would You Like to Know [**More**](https://github.com/piro-s/music_alarm)?  
 
 ---
 ## Meteostantions  
