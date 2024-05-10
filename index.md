@@ -6,8 +6,8 @@ These are all my public projects.
 
 
 ---
-
-# Devices
+# Devices  
+## Various  
 
 ### Bonfire  
 Modernization of the night light bought on Ali in the form of a bonfire from Dark Souls. Would You Like to Know [**More**](https://github.com/piro-s/bonfire)?  
@@ -73,7 +73,6 @@ Pulse signal generator, published version is ready and working, further developm
 Microammeter is designed to measure small direct currents in low-voltage circuits. Would You Like to Know [**More**](https://github.com/piro-s/mega_micro_ammeter_48)?  
 
 ---
-
 # Web-projects
 
 ### Motion CCTVbot  
@@ -89,7 +88,6 @@ Mini web server to display graphs of the resulting temperature values. Would You
 Bot to access the library. Would You Like to Know [**More**](https://github.com/piro-s/lib_bot)?  
 
 ---
-
 # Scripts  
 
 ### Text on image  
@@ -102,7 +100,6 @@ Script to create preview pdf (50 dpi). Would You Like to Know [**More**](https:/
 Script to create preview image (20% from original). Would You Like to Know [**More**](https://github.com/piro-s/image_preview)?  
 
 ---
-
 # Misc  
 ### Commit types  
 Types of commits for github. Would You Like to Know [**More**](https://github.com/piro-s/commit_types)?  
